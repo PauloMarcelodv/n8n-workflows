@@ -20,10 +20,4 @@ Automação de um processo seletivo com as seguintes etapas:
 - Google Sheets
 - Google Calendar
 
-### Como importar no n8n
-1. Acesse o n8n
-2. Clique em **Import**
-3. Selecione **Upload file**
-4. Escolha o arquivo JSON do workflow
 
-> Observação: As credenciais não estão incluídas no repositório.
